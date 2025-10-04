@@ -1,2 +1,2 @@
-# joy-restaurant
+# restaurant-web
 My first website using HTML,CSS,JAVASCRIPT...
